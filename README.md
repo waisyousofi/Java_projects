@@ -1,2 +1,2 @@
 # Java_projects
-Fundamental concepts of java
+Project which covers fundamental concepts of core java, swing, JDBC with SQL server.
